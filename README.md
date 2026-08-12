@@ -1,4 +1,3 @@
-# IBMBob-and-IBMCloud
 
 # IBM Bob and IBM Cloud
 
